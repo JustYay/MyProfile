@@ -4,6 +4,8 @@
 
 ### 💻 Full-Stack разработчик | 🚀 DevOps энтузиаст | 🎯 Создаю цифровые решения
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;DevOps+Engineer;Open+Source+Contributor;Always+learning+new+things" alt="Typing SVG" />
+
 <img src="https://komarev.com/ghpvc/?username=justyay&label=Просмотры%20профиля&color=0e75b6&style=for-the-badge" alt="justyay" />
 
 ---
@@ -20,6 +22,18 @@
 🎾 КМС по большому теннису  
 🎸 Играл в группе на бас-гитаре  
 🎣 Люблю рыбалку  
+
+</div>
+
+## 🎯 Текущие цели на 2024
+
+<div align="center">
+
+- 🔥 Изучение **Kubernetes** и **Cloud Native** технологий
+- 🌟 Развитие навыков в **Machine Learning** и **AI**
+- 📚 Получение сертификации **AWS/Azure**
+- 🤝 Участие в **Open Source** проектах
+- 📝 Написание технических статей и туториалов
 
 </div>
 
@@ -96,6 +110,12 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### CMS & Движки
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![OpenCart](https://img.shields.io/badge/OpenCart-1BA3E0?style=for-the-badge&logo=opencart&logoColor=white)
+![DLE](https://img.shields.io/badge/DataLife_Engine-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+![DocPart](https://img.shields.io/badge/DocPart-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white)
+
 </div>
 
 ## 📊 GitHub статистика
@@ -113,6 +133,14 @@
 
 </div>
 
+## 📈 Активность
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=justyay&theme=tokyo-night)
+
+</div>
+
 ## 🏆 Достижения
 
 <div align="center">
@@ -120,6 +148,22 @@
 ![Trophy](https://github-profile-trophy.vercel.app/?username=justyay&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
+
+## 📝 Последние проекты и достижения
+
+<div align="center">
+
+🚀 **Разработка корпоративных веб-приложений**  
+🔧 **Настройка CI/CD пайплайнов**  
+📊 **Внедрение систем мониторинга**  
+🌐 **Создание высоконагруженных API**  
+💡 **Оптимизация производительности баз данных**
+
+### 🎵 Музыкальные предпочтения
+🎸 **Rock & Metal** | 🎵 **Electronic** | 🎼 **Classical**
+
+</div>
+
 
 ## 💰 Поддержать проект
 
@@ -143,6 +187,8 @@
 <div align="center">
 
 ### 💭 *"Код - это поэзия в движении"*
+
+![Snake animation](https://github.com/justyay/justyay/blob/output/github-contribution-grid-snake.svg)
 
 **Спасибо за посещение моего профиля! 🚀**
 
