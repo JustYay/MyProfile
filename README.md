@@ -52,6 +52,8 @@
 [![Email](https://img.shields.io/badge/Email-main@incdev.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:main@incdev.ru)
 [![Instagram](https://img.shields.io/badge/Instagram-chd13-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chd13)
 
+[![Resume](https://img.shields.io/badge/📄_Резюме-Скачать_PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/JustYay/MyProfile/blob/main/CV%20-%20Boris%20Kovalskii.pdf)
+
 </div>
 
 ---
