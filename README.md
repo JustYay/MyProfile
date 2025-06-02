@@ -29,7 +29,7 @@
 
 ---
 
-## 🎯 Текущие цели на 2024
+## 🎯 Текущие цели на 2025
 
 <div align="center">
 
@@ -210,7 +210,10 @@
 
 ### 💭 *"Код - это поэзия в движении"*
 
-![Snake animation](https://github.com/justyay/justyay/blob/output/github-contribution-grid-snake.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<!-- Snake Animation будет доступна после первого запуска GitHub Action -->
+<!-- ![Snake animation](https://github.com/justyay/justyay/blob/output/github-contribution-grid-snake.svg) -->
 
 **Спасибо за посещение моего профиля! 🚀**
 
