@@ -10,20 +10,20 @@
 
 ## 🚀 О себе
 
-```typescript
-const boris = {
-    location: "Россия 🇷🇺",
-    currentFocus: "DevOps & Cloud Technologies",
-    portfolio: "https://incdev.net/",
-    funFacts: [
-        "🎾 КМС по большому теннису",
-        "🎸 Играл в группе на бас-гитаре", 
-        "🎣 Люблю рыбалку"
-    ]
-};
-```
+<div align="center">
 
-## 📫 Связаться со мной
+🌍 **Местоположение:** Россия 🇷🇺  
+🎯 **Текущий фокус:** DevOps & Cloud Technologies  
+💼 **Портфолио:** [incdev.net](https://incdev.net/)  
+
+### ⚡ Интересные факты:
+🎾 КМС по большому теннису  
+🎸 Играл в группе на бас-гитаре  
+🎣 Люблю рыбалку  
+
+</div>
+
+## �� Связаться со мной
 
 <div align="center">
 
